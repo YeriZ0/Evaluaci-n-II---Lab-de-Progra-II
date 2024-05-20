@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1715967316 source:e:\labs\prog2\evaluacion2\src\fichero.cpp
+	"Fichero.h"
+	<cstdlib>
+
+1715967729 e:\labs\prog2\evaluacion2\include\fichero.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<string>
+	<stdio.h>
+
+1715965469 e:\labs\prog2\evaluacion2\include\objeto.h
+	<stdlib.h>
+	<string>
+	<sstream>
+
+1715965481 source:e:\labs\prog2\evaluacion2\src\objeto.cpp
+	"Objeto.h"
+
+1715967654 source:e:\labs\prog2\evaluacion2\main.cpp
+	<iostream>
+	"Fichero.h"
+
+1716244993 source:d:\universidad uso\ciclo iii\lab de programacion ii\evaluación ii\evaluacion2\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<wchar.h>
+	<locale.h>
+	"Fichero.h"
+	"Usuario.h"
+	"Sesion.h"
+
+1716235554 d:\universidad uso\ciclo iii\lab de programacion ii\evaluación ii\evaluacion2\include\fichero.h
+	<fstream>
+	<iostream>
+	<cstring>
+	<string>
+	<stdio.h>
+
+1716242241 source:d:\universidad uso\ciclo iii\lab de programacion ii\evaluación ii\evaluacion2\src\fichero.cpp
+	"Fichero.h"
+	<cstdlib>
+
+1716235538 source:d:\universidad uso\ciclo iii\lab de programacion ii\evaluación ii\evaluacion2\src\usuario.cpp
+	"Usuario.h"
+
+1716235142 d:\universidad uso\ciclo iii\lab de programacion ii\evaluación ii\evaluacion2\include\usuario.h
+	<iostream>
+	<string>
+
+1716244772 d:\universidad uso\ciclo iii\lab de programacion ii\evaluación ii\evaluacion2\include\sesion.h
+	<iostream>
+	<string>
+	"Usuario.h"
+	"Fichero.h"
+
+1716245189 source:d:\universidad uso\ciclo iii\lab de programacion ii\evaluación ii\evaluacion2\src\sesion.cpp
+	<iostream>
+	"Sesion.h"
+
